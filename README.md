@@ -48,5 +48,4 @@ I'm a computational astrophysicist and machine learning researcher building tool
 ## Let's Connect
 
  [nialljmiller.com](https://nialljmiller.com)  
- [niall.j.miller@gmail.com](mailto:niall.j.miller@gmail.com)  
  [ORCID](https://orcid.org/0000-0002-3780-0592)
