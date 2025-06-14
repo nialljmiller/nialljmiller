@@ -16,7 +16,6 @@ Astrophysicist · AI Scientist · Software Engineer
 
 - Built a weather station & greenhouse bot powered by RNNs.
 - Designed and deployed a LAMP-based data collection server.
-- Taught 20+ MSc and PhD students in AI, astrophysics, and data science.
 
 ---
 
