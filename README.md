@@ -12,13 +12,6 @@ Astrophysicist · AI Scientist · Software Engineer
 
 ---
 
-## Side Quests
-
-- Built a weather station & greenhouse bot powered by RNNs.
-- Designed and deployed a LAMP-based data collection server.
-
----
-
 ## Let's Connect
 
  [nialljmiller.com](https://nialljmiller.com)  
